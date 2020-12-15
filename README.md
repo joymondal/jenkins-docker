@@ -1,4 +1,4 @@
-# jenkins-setup
+# jenkins-docker
 
 Automated setup of Pre-configured jenkins container running over docker.
 
