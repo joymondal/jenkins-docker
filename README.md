@@ -12,5 +12,6 @@ Details:
 Prerequisite:
 Latest version of Docker.
 
-Step (Run the following commnd):
+Steps (Run the following commnds):
+
 docker-compose up -d
