@@ -14,4 +14,4 @@ Latest version of Docker.
 
 Steps (Run the following commnds):
 
-docker-compose up -d
+1. docker-compose up -d
